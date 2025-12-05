@@ -13,8 +13,9 @@
 ## 📸 Screenshots
 
 <p float="left" align="center">
-  <img src="Screenshots/Screenshot1.png" width="200"/>
-  <!-- TODO: upload Screenshots -->
+  <img src="https://raw.githubusercontent.com/Vinay1291/images/refs/heads/main/Screenshot_BMI1.jpg" width="200"/>
+  
+  <img src="https://github.com/Vinay1291/images/blob/main/Screenshot_BMI2.jpg" width="200"/>
 </p>
 
 ---
